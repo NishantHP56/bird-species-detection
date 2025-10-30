@@ -61,8 +61,7 @@ bird-species-detection/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bird-species-detection.git
-cd bird-species-detection
+
 
 Install Dependencies
 pip install -r requirements.txt
