@@ -52,7 +52,7 @@ bird-species-detection/
 - **Loss:** CrossEntropyLoss  
 - **Optimizer:** Adam (lr = 0.001)  
 - **Input size:** 128×128  
-- **Epochs:** 27  
+- **Epochs:** 27                    #you may increase the number of epochs for more accurate answers
 - **Dataset:** [Bird Species Classification (220 categories)](https://www.kaggle.com/datasets/kedarsai/bird-species-classification-220-categories)
 
 ---
@@ -78,4 +78,6 @@ python train_birds.py
 
 Run the Gradio App
 python app.py
+
+
 
