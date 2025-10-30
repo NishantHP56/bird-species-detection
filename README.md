@@ -61,10 +61,17 @@ bird-species-detection/
 
 ### 1️⃣ Clone the Repository
 ```bash
-
+https://github.com/NishantHP56/bird-species-detection.git
 
 Install Dependencies
 pip install -r requirements.txt
+
+Train the Model
+python train_birds.py
+
+Run the Gradio App
+python app.py
+
 
 Train the Model
 python train_birds.py
